@@ -1,0 +1,4 @@
+.DS_Store
+gateway
+gateway_musl
+libnss_*.so.2
