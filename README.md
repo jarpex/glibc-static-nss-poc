@@ -1,3 +1,7 @@
+> ⚠️ **Security Notice**: This repository contains working exploit code
+> for educational and research purposes. Use responsibly and only on
+> systems you own or have explicit permission to test.
+
 # glibc-static-nss-poc
 
 Proof of Concept demonstrating how statically linked glibc binaries (`-static`) can still trigger runtime dynamic loading (`dlopen`) through the NSS (Name Service Switch) subsystem, enabling arbitrary code execution via `LD_LIBRARY_PATH` hijacking.

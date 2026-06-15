@@ -123,7 +123,3 @@ rm -f libnss_resolve.so.2 libnss_dns.so.2 libnss_myhostname.so.2 libnss_mdns4_mi
 rm -f /tmp/pwned.txt
 [+] Cleanup completed
 ```
-
-```
-
-```
