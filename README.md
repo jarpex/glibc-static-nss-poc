@@ -40,6 +40,7 @@ Each `dlopen()` call exposes the application to dynamic linker hijacking via `LD
 ├── demo.sh              # Interactive terminal demonstration framework
 └── examples/            # Full execution logs on various distributions
     ├── fedora44_glibc2.43.md
+    ├── fedora44_glibc2.43-root.md
     └── debian10_glibc2.28.md
 ```
 
